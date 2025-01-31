@@ -1,4 +1,4 @@
-# SkyPay - Java Maven Project
+# SkyPay - Kata Bank System
 
 ## Overview
 
